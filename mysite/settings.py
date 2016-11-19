@@ -25,7 +25,7 @@ SECRET_KEY = 'v55=$nwm)hrkqp6c1==$x!@p5u%nb#kbn6q!h*4ch6lfk9me&a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['artello.pythonanywhere.com']
 
 
 # Application definition
